@@ -10,6 +10,7 @@ CakePHP has a few system requirements:
 - intl PHP extension
 - simplexml PHP extension
 - PDO PHP extension
+- mysqlnd PHP extension
 
 .. note::
 
